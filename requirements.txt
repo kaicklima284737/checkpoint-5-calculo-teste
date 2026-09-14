@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+sympy
+jupyter
+nbformat
+nbclient
